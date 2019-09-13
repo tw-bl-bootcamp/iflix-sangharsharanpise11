@@ -1,6 +1,19 @@
 .gradle
 /build/
 
+  
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 # Ignore Gradle GUI config
 gradle-app.setting
 
